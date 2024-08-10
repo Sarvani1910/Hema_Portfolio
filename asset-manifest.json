@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sarvani1910/Hema_Portfolio/static/css/main.4849510f.css",
-    "main.js": "/Sarvani1910/Hema_Portfolio/static/js/main.b347b843.js",
-    "static/js/453.aac68abc.chunk.js": "/Sarvani1910/Hema_Portfolio/static/js/453.aac68abc.chunk.js",
-    "index.html": "/Sarvani1910/Hema_Portfolio/index.html",
-    "main.4849510f.css.map": "/Sarvani1910/Hema_Portfolio/static/css/main.4849510f.css.map",
-    "main.b347b843.js.map": "/Sarvani1910/Hema_Portfolio/static/js/main.b347b843.js.map",
-    "453.aac68abc.chunk.js.map": "/Sarvani1910/Hema_Portfolio/static/js/453.aac68abc.chunk.js.map"
+    "main.css": "/Hema_Portfolio/static/css/main.4849510f.css",
+    "main.js": "/Hema_Portfolio/static/js/main.ee481b51.js",
+    "static/js/453.aac68abc.chunk.js": "/Hema_Portfolio/static/js/453.aac68abc.chunk.js",
+    "index.html": "/Hema_Portfolio/index.html",
+    "main.4849510f.css.map": "/Hema_Portfolio/static/css/main.4849510f.css.map",
+    "main.ee481b51.js.map": "/Hema_Portfolio/static/js/main.ee481b51.js.map",
+    "453.aac68abc.chunk.js.map": "/Hema_Portfolio/static/js/453.aac68abc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4849510f.css",
-    "static/js/main.b347b843.js"
+    "static/js/main.ee481b51.js"
   ]
 }
